@@ -23,7 +23,9 @@ select {
 
 h1 {
   color: blueviolet;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
   font-size: 36px;
   text-align: center;
 }
@@ -42,7 +44,7 @@ h1 {
 
 h2 {
   margin: 0 0 5px;
-  font-size: 26px;
+  font-size: 24px;
 }
 
 .date {
@@ -50,12 +52,12 @@ h2 {
 }
 
 .time {
-  font-size: 48px;
-  font-weight: bold;
+  font-size: 42px;
+  font-weight: 500;
 }
 
 .time small {
-  font-size: 24px;
+  font-size: 20px;
   vertical-align: middle;
 }
 
